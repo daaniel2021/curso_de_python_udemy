@@ -1,0 +1,12 @@
+'''
+Condições IF, ELIF, ELSE
+'''
+
+if False:
+    print('verdadeiro')
+elif False:
+    print('Agora é verdadeiro.')
+elif False:
+    print('Mis uua verdadeira')
+else:
+    print('Não é verdadeiro.')
