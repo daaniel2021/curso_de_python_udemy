@@ -45,5 +45,3 @@ quantidade_perguntas = len(perguntas)
 porcentagem_acerto = respostas_certas / quantidade_perguntas * 100
 print(f'Você acertou {respostas_certas} respostas.')
 print(f'Sua porcentagem de acerto foi {porcentagem_acerto}%.')
-
-# execercicios feito pelo professor
