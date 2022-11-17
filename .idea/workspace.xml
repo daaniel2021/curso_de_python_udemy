@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f16921de-2427-4848-a198-776962e2b027" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/curso_de_python_udemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curso_de_python_udemy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,6 +201,7 @@
       <workItem from="1661815572859" duration="3766000" />
       <workItem from="1664924992217" duration="39000" />
       <workItem from="1664925234643" duration="1375000" />
+      <workItem from="1665621347772" duration="749000" />
     </task>
     <servers />
   </component>
